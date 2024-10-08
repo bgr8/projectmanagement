@@ -113,7 +113,7 @@ In this project, repositories are used to handle CRUD operations for both projec
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/project-management-tool.git
+   git clone https://github.com/bgr8/project-management-tool.git
    cd project-management-tool
    
 2. **Install dependencies**:
